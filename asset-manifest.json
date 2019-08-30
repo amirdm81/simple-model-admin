@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-model-admin/static/css/main.6c20f3ca.chunk.css",
+    "main.js": "/simple-model-admin/static/js/main.17d4ae32.chunk.js",
+    "main.js.map": "/simple-model-admin/static/js/main.17d4ae32.chunk.js.map",
+    "runtime~main.js": "/simple-model-admin/static/js/runtime~main.c01d0d76.js",
+    "runtime~main.js.map": "/simple-model-admin/static/js/runtime~main.c01d0d76.js.map",
+    "static/css/2.2fc85d3e.chunk.css": "/simple-model-admin/static/css/2.2fc85d3e.chunk.css",
+    "static/js/2.11d1fc99.chunk.js": "/simple-model-admin/static/js/2.11d1fc99.chunk.js",
+    "static/js/2.11d1fc99.chunk.js.map": "/simple-model-admin/static/js/2.11d1fc99.chunk.js.map",
+    "index.html": "/simple-model-admin/index.html",
+    "precache-manifest.80865e74c410871bfea8f2f44e9cedcc.js": "/simple-model-admin/precache-manifest.80865e74c410871bfea8f2f44e9cedcc.js",
+    "service-worker.js": "/simple-model-admin/service-worker.js",
+    "static/css/2.2fc85d3e.chunk.css.map": "/simple-model-admin/static/css/2.2fc85d3e.chunk.css.map",
+    "static/css/main.6c20f3ca.chunk.css.map": "/simple-model-admin/static/css/main.6c20f3ca.chunk.css.map",
+    "static/media/ionicons.min.css": "/simple-model-admin/static/media/ionicons.ef4a9f28.ttf",
+    "static/media/font-face.css": "/simple-model-admin/static/media/poppins-v5-latin-regular.f00ab8be.eot",
+    "static/media/profile.jpg": "/simple-model-admin/static/media/profile.0b9235c3.jpg"
+  }
+}
